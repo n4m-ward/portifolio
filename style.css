@@ -42,6 +42,8 @@ img{
     width:160px;
     height:190px;
     margin-top: 10px;
+    box-shadow: 1px 1px 1px 1px #4F4F4F;
+
     
 }
 
@@ -54,9 +56,6 @@ img{
     padding: 5px;
     font-weight: bold;
     text-align: center;
-}
-.skill{
-    box-shadow: 1px 1px 1px 1px #4F4F4F;
 }
 .skillList{
     display:grid;
