@@ -16,7 +16,7 @@ img{
     height:400px;
     padding:20px;
 }
-.about img{
+.foto img{
     padding:20px;
     width:300px;
     height:300px;
@@ -110,12 +110,15 @@ img{
 }
 
 @media(max-width:600px){
+    
     .about{
+        margin: 0 auto;
         height:600px;
+    
     }
-    .about img{
-        margin-left:50px;
+    .foto img{
         float:none;
+        margin-left: 30px;
         
     }
     .skillList{
@@ -134,5 +137,7 @@ img{
     }
     .sidebar > div {
         flex: 1 0 200px;
-    margin:0 10px;}
+    margin:0 10px;
+    }
 }
+
