@@ -11,6 +11,7 @@ img{
 .cor{
     background-color:#f5f5f5;
     box-shadow: 5px 5px 5px 5px #696969;
+    height: auto;
 }
 .about-me{
     height:400px;
@@ -111,14 +112,7 @@ img{
 
 @media(max-width:768px){
     
-    .about{
-        margin: 0 auto;
-        height:600px;
     
-    }
-    .cor{
-        height: auto;
-    }
     .foto img{
         display: block;
         float:none;
