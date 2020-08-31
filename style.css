@@ -1,6 +1,5 @@
 body{
     font-family: 'SemiBold',Arial;
-    background-color:;
 }
 .container{
     margin-top:100px;
@@ -79,7 +78,7 @@ img{
     padding:10px;
     margin:0 auto;
 }
-.sidebar >div {
+.sidebar > div {
     margin-bottom:10px;
 }
 
