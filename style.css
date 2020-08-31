@@ -109,14 +109,18 @@ img{
     
 }
 
-@media(max-width:600px){
+@media(max-width:768px){
     
     .about{
         margin: 0 auto;
         height:600px;
     
     }
+    .cor{
+        height: auto;
+    }
     .foto img{
+        display: block;
         float:none;
         margin-left: 30px;
         
