@@ -116,7 +116,7 @@ img{
     .foto img{
         display: block;
         float:none;
-        margin-left: 30px;
+        margin: 0 auto;
         
     }
     .skillList{
