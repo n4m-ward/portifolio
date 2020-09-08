@@ -83,12 +83,16 @@ img{
     margin-bottom:10px;
 }
 
+.about-article{
+    border: 1px solid gray;
+    border-radius: 10px;
+}
 .about-article p{
     text-align: center;
     font-size:1.5rem;
 }
 .about-article ul li{
-    font-size:1.5rem;
+    font-size:1.5rem; 
 }
 .article{
     display:grid;
@@ -99,7 +103,7 @@ img{
     padding:10px;
 }
 .article-item:nth-child(1){
-    grid-row: 1 / 5;
+    grid-row: 1 / 4;
 
 }
 .article-item{
@@ -108,7 +112,7 @@ img{
 }
 .article-item img{
     grid-column: 1;
-    grid-row: 1/5;
+    grid-row: 1/4;
     align-self:end;
 }
 .article-item p{
