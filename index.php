@@ -1,3 +1,4 @@
+<?php ?>
 <!doctype html>
 <html lang="pt-br">
   <head>
@@ -47,7 +48,9 @@
           </div>
           <div class="about-me">
             <h1 class="txt">Desenvolvedor<br> Full-Stack</h1>
-            <p>Cursando Segundo semestre de Analise e desenvolvimento de sistemas, estudando Programação fullstack com foco em Vue.js e Node.js</p>
+            <p>Cursando Penultimo semestre de Analise e desenvolvimento de sistemas, estudando Programação fullstack com foco em Vue.js e Node.js</p>
+
+            <p>Atuando como Estagiario de programação e freelancer</p>
           </div>
         </div>
       </div>
